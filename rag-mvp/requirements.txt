@@ -1,0 +1,7 @@
+# RAG MVP (local TF-IDF retriever) uses only the Python standard library (3.10+).
+# Test runner:
+pytest>=8.0
+
+# Reserved for the Azure AI Search backend (not used yet - do not install for the MVP):
+# azure-search-documents>=11.5
+# openai>=1.40            # Azure OpenAI embeddings
